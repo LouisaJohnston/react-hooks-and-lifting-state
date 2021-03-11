@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.filter-container {
+  display: flex;
+  justify-content: center;
+  background-color: lightblue;
+}
+
+.fruit-list {
+  border: .3em solid plum;
+}
